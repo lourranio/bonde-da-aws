@@ -1,3 +1,35 @@
+
+![BondeDaAWS](/images/bonde-da-aws.png)
+
+# Bonde da AWS 2.0
+
+Treinamento gratuito e preparatório para o exame AWS Solutions Architect Associate, além do treinamento você irá acompanhar palestras exclusivas com membros da comunidade AWS e um grupo de apoio no Discord!
+
+* No dia 01/08 à 05/08 na Twitch ( concluído )
+
+
+* Para os inscrito no Bonde da Aws 2.0 ( concluído )
+ 
+ https://school.linuxtips.io/courses/1852482
+
+
+* CENTENAS DE VOUCHERS GRATUITOS E MAIS UM TREINAMENTO OFICIAL AWS GRATUITO! #BondeDaAWS 
+( entre os dias 22 a 24 Agosto )
+
+https://www.youtube.com/watch?v=E0KbB3WJE6A
+
+```
+Tem um monte de vouchers gratuitos para o exame de Solutions Architect da AWS! 
+
+E ainda tem um treinamento que os instrutores e instrutoras da AWS preparam para a galera do Bonde se preparar ainda mais para o exame! 
+
+LINK PARA O TREINAMENTO GRATUITO: https://bit.ly/bondedaaws2
+
+#LINUXtips #AWS #BondeDaAWS
+``` 
+
+
+
 ![BondeDaAWS](/images/bonde-da-aws.png)
 
 # Bonde da AWS
