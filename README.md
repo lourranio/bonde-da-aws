@@ -1,9 +1,26 @@
-![BondeDaAWS](/images/bonde-da-aws.png)
+# BONDE AWS 2.0 
+![BondeDaAWS](/images/bonde-aws-2-0.png)
 
-# Bonde da AWS
+- Inscrições
+- Periodo de Acesso
+
+O material do treinamento AWS Expert, disponibilizado para os inscritos no programa #BondeDaAWS ficará disponível até o dia 01/09/2022.
+
+
+Dúvidas sobre o treinamento ou outros, encaminhe um email para contato@linuxtips.com.br ou acesse o canal no Discord!
+
+
+
+
+
+
+# BONDE AWS 1.0 (concluído)
+
+![BondeDaAWS](/images/bonde-da-aws.png)
 
 - Inscrições: https://linuxtips.io/pages/bondedaaws
 - [Assista aqui!](https://bit.ly/BondeDaAWS-YouTube) 📺☁️
+- 
 
 ## Cursos
 
