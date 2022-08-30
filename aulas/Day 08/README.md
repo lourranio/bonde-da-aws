@@ -18,4 +18,5 @@ Route Tables => https://docs.aws.amazon.com/pt_br/vpc/latest/userguide/VPC_Route
 ###
 
 Internet Gateway > route table > Network acl > Security Groups
+
 ![alt](../../images/maps-01.png)
